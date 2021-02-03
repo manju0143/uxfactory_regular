@@ -1,0 +1,27 @@
+
+.nav li { 
+    display: inline;
+    padding: 20px 20px;
+}
+.nav li a { 
+    font-size: 21px;
+    color: crimson;
+    text-decoration:none;
+}
+#name a{ 
+    color: darkgoldenrod;
+}
+#style{ 
+    background-color: darkred;
+    color: darkslategray;
+}
+.banner { 
+    height: 30mm;
+    width: 100mm;
+    border: dotted;
+    text-align: center;
+    margin-left: 60px;
+}
+
+    
+    

@@ -1,0 +1,49 @@
+.one{ 
+    margin-left: 30px;
+}
+.left{ 
+    margin-left: 30px;
+    width:600px;
+    height:40px;
+    background-color: blueviolet;
+}
+.left a{ 
+    padding: 20px;
+}
+.sunil{ 
+    background-color: cornflowerblue;
+    height: 250px;
+    width: 600px;
+    margin-left: 30px;
+    text-align: center;
+}
+.four {
+    clear: both;
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+.four div {
+    display: inline-block;
+    width: 25%;
+    height: 180px;
+    margin-left: -4px;
+    margin-bottom: 50px;
+}
+.four .blue {
+    background-color: #5EB1CF;
+}
+.four .green {
+    background-color: #9FBC2E;
+}
+.four .yellow {
+    background-color: #F5BC3B;
+}
+.four .red {
+    background-color: #E75557;
+}
+.four div p {
+    color: white;
+    font-size: 20px;
+    line-height: 150px;
+}
